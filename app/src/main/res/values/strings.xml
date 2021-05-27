@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Calculator app</string>
+    <string name="input">10+10</string>
+    <string name="output">20</string>
+    <string name="plusMinus">+/-</string>
+    <string name="add">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">X</string>
+    <string name="divide">/</string>
+    <string name="decimal">.</string>
+    <string name="C_word">C</string>
+    <string name="equal">=</string>
+    <string name="power">X10^x</string>
+    <string name="answer">ANS</string>
+    <string name="delete">DEL</string>
+    <string name="ac_word">AC</string>
+    <string name="cosine">Cos</string>
+    <string name="sine">Sin</string>
+    <string name="tan">Tan</string>
+    <string name="logarithm">Log</string>
+    <string name="ln">ln</string>
+    <string name="pow">x^2</string>
+    <string name="fac">x!</string>
+    <string name="setup">Menu</string>
+    <string name="shift">Shift</string>
+    <string name="Alpha">Alpha</string>
+    <string name="on">ON</string>
+    <string name="s_d">S->D->S</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="eight">8</string>
+    <string name="seven">7</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+
+</resources>
